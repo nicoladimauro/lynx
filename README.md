@@ -8,7 +8,7 @@ Lynx tackles the problem of multi-class relational (sequence) learning
 using relevant patterns discovered from a set of labelled examples.  
 
 ### Downloads
-Lynx [source code](https://github.com/nicoladimauro/lemur) (Yap Prolog language) 
+Lynx [source code](https://github.com/nicoladimauro/lynx) (Yap Prolog language) 
 
 ### License for Lynx
 

@@ -1,4 +1,4 @@
-![lynx](Lynx.jpg)
+![lynx width="190"](Lynx.jpg)
 
 # Lynx
 ## Probabilistic Models for Relational (Sequence) Learning

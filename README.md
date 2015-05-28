@@ -1,5 +1,4 @@
-<img src="Lynx.jpg" alt="Lynx" style="width: 200px;"/>
-![lynx](Lynx.jpg =190)
+<img src="Lynx.jpg" alt="Lynx" width="200"/>
 
 # Lynx
 ## Probabilistic Models for Relational (Sequence) Learning
